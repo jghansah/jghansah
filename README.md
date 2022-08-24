@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jghansah
-- 👀 I’m interested in Matlab Codes
-- 🌱 I’m currently learning Signal Processing
+- 👀 I’m interested in Matlab and Python Codes
+- 🌱 I’m currently learning python and matlab
 - 💞️ I’m looking to collaborate on Signal Processing
 - 📫 How to reach me ...@jghansah Github
 
